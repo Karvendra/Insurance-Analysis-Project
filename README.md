@@ -7,7 +7,7 @@ This repository showcases KPI tracking, customer segmentation, policy performanc
 
 ## 🚀 Project Overview
 
-This project provides a 360° view of insurance business insights, including:
+This project provides a 360° view of insurance business insights, covering:
 
 ### ✅ Key Features
 - Policy performance analytics  
@@ -17,18 +17,23 @@ This project provides a 360° view of insurance business insights, including:
 - Customer segmentation (Age, Gender, Region)  
 - Branch-level performance dashboards  
 - End-to-end SQL scripts for KPI extraction  
-- Interactive dashboards in **Excel** , **Power BI** & **Tableau**
+- Interactive dashboards in **Excel**, **Power BI**, and **Tableau**
 
-### 🛠 Data Preparation Scripts
+---
+
+## 🛠 Data Preparation Scripts
+
+Includes SQL transformations for:
+
 - Customer demographic extraction  
 - Policy-wise revenue aggregation  
 - Renewal & cross-sell classification  
 - Branch performance KPIs  
 - Claims summaries and indicators  
 
-### 📌 Example:
-/sql/BranchDashboard.sql  
-/sql/PolicyDashboard.sql  
+### 📌 Example SQL Files:
+- `/sql/BranchDashboard.sql`  
+- `/sql/PolicyDashboard.sql`
 
 These scripts help generate clean datasets for dashboards and reporting.
 
@@ -39,7 +44,7 @@ These scripts help generate clean datasets for dashboards and reporting.
 ### 🔷 **Power BI Dashboards (`powerbi/`)**
 - Insurance Policy Dashboard  
 - Branch Performance Dashboard  
-- Customer Insights  
+- Customer Insights Dashboard  
 - Policy Trend Analysis  
 
 ### 🟧 **Tableau Dashboards (`tableau/`)**
@@ -63,29 +68,29 @@ These scripts help generate clean datasets for dashboards and reporting.
 
 ## 🧠 Features Delivered
 
-### ✔ Role-Based KPI Cards  
+### ✔ Role-Based KPI Cards
 - Target vs Achieved  
 - Revenue Trends  
 - Policy Counts  
 - Renewal Ratio  
 
-### ✔ Customer Insights  
+### ✔ Customer Insights
 - Age buckets  
 - Region distribution  
 - Category-wise segmentation  
 
-### ✔ Policy & Branch Analytics  
+### ✔ Policy & Branch Analytics
 - New, Renewal, Cross-Sell  
-- Monthly / Quarterly revenue trend  
+- Monthly / Quarterly revenue trends  
 - High-performing branches  
 - Low-retention risk patterns  
 
-### ✔ Claims Analysis  
+### ✔ Claims Analysis
 - Claim amount distribution  
 - Loss ratios  
 - Frequency vs Severity  
+
 ---
 
 ## 📂 Repository Structure
-
 
